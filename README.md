@@ -1,3 +1,10 @@
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 # Jhohan-JIanpierre
 
 ### Hola, un gusto!! 👋
@@ -25,19 +32,30 @@ poder dejar una marca indeleble en mis compañeros, ser parte de proyectos incre
 
 Durante el BootCamp de HENRY he adquirido conocimiento en tecnologias fascinantes que me acercan a este mundo maravilloso:
 
-* JavaScript
-* React Js
-* Node Js
-* Express Js
-* HTML
-* CSS
-* PostgreSQL
-* Sequelize
-* Git 
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://reactnative.dev/img/header_logo.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="200"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="200"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="200"/></td>
+    </tr>
+  </table>
 
 
 No dudes en contactarte conmigo!
 
 
 Email: jhohanjianpierre@gmail.com
-telefono: +51936700866
+<br/>
+Teléfono: +51936700866
+<br/>
+LinkedIn: https://www.linkedin.com/in/jhohan-jianpierre/
